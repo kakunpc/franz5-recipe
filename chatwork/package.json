@@ -1,0 +1,25 @@
+{
+  "id": "chatwork",
+  "name": "ChatWork",
+  "version": "1.0.4",
+  "description": "ChatWork",
+  "main": "index.js",
+  "author": "kakunpc <kakun_pc@yahoo.co.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.chatwork.com/",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasTeamId": false,
+    "hasPredefinedUrl": false,
+    "hasCustomUrl": false,
+    "urlInputSuffix": "chatwork.com",
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": true
+  }
+}
